@@ -1,16 +1,6 @@
-# projeto_perguntas
+# Projeto do curso de Flutter - APP de Perguntas
 
-A new Flutter project.
+Esse projeto foi feito com base no curso de flutter "Aprenda Flutter e Desenvolva App Para Android e  IOS" do professor Leonardo Moura Leitao, junto com a Cod3r Cursos Online e  Maximilian Schwarzmüller.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

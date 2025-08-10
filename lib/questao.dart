@@ -11,15 +11,13 @@ class Questao extends StatelessWidget {
       width: double.infinity,
       margin: EdgeInsets.all(10),
       child: Text(
-          texto,
-          style: TextStyle(
-            fontSize: 28,
-            color: Colors.grey[800],
-            fontWeight: FontWeight.bold,
-        
-          ),
-          textAlign: TextAlign.center,
-      
+        texto,
+        style: TextStyle(
+          fontSize: 28,
+          color: Colors.grey[800],
+          fontWeight: FontWeight.bold,
+        ),
+        textAlign: TextAlign.center,
       ),
     );
   }
